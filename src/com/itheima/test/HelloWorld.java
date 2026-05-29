@@ -1,4 +1,4 @@
-package src.com.itheima.test1;
+package com.itheima.test;
 
 public class HelloWorld {
     public static void main(String[] args) {
